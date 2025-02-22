@@ -3,7 +3,7 @@
 ## Overview
 This API enables WhatsApp automation by handling contacts, messages, statuses, and group management. The backend integrates with the 360Dialog API for WhatsApp messaging.
 
-**Base API URL:** `http://127.0.0.1:8000/`
+**Base API URL:** `https://django-whatsapp-backend.onrender.com`
 
 ---
 
